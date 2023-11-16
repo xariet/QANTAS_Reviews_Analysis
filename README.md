@@ -8,6 +8,7 @@ Web Scraping: Utilized web scraping techniques to gather a substantial amount of
 Data Analysis: With the collected data in hand, I performed in-depth data analysis using Python. This analysis included sentiment analysis to gauge the sentiment of each review and extracting key phrases and subjectivity from the review text. I also calculated statistical measures like mean sentiment polarity and mean sentiment subjectivity.
 
 Power BI Dashboard: To visualize and present the findings,I leveraged the capabilities of Power BI. I designed an interactive and informative dashboard that allows stakeholders to explore and understand the data effortlessly. The dashboard features insightful visuals, such as sentiment analysis breakdown, sentiment trends over time, and key phrases extracted from the reviews, different ratings broken down and sliced by differenr categories.
+Dashboard lives here: https://www.novypro.com/project/unveiling-insights-qantas-airways-customer-reviews-analysis-power-bi
 
 Key Highlights of the Project:
 
